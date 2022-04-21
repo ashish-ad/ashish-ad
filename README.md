@@ -24,4 +24,5 @@ You can click the Preview link to take a look at your changes.
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ashishad14)](https://github.com/ashish-ad/github-readme)
 
-![Snake animation](https://github.com/ashish-ad/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/ashish-ad/ashish-ad/github-readme/blob/output/github-contribution-snake.svg)
+
