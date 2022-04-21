@@ -8,7 +8,7 @@
 - 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if want to reach me out here.
 - [Resume](https://drive.google.com/file/d/1xMgrhEHdY4EJ5hp6BzcVxAEdcJaQWpNq/view?usp=sharing)
 
-## Programing Nerd Jokes
+## Programming Nerd Jokes
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ## Top Languages
