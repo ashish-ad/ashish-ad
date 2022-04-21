@@ -8,11 +8,11 @@
 - 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if want to reach me out here.
 - [Resume](https://drive.google.com/file/d/1xMgrhEHdY4EJ5hp6BzcVxAEdcJaQWpNq/view?usp=sharing)
 
+## Programing Nerd Jokes
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
@@ -24,6 +24,6 @@
 ## My LeetCode Profile
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ashishad14)](https://github.com/ashish-ad/github-readme)
 
-## Snake eating my contribution
+## Snake Eating My Contribution
 ![Snake animation](https://github.com/ashish-ad/ashish-ad/blob/output/github-contribution-snake.svg)
 
