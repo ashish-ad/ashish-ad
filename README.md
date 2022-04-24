@@ -5,7 +5,7 @@
 - 👀 I’m interested in ... Neural Networks, Mathematics, IoT, Nvidia Jetson Nano, Web Development (newbiee).
 - 🌱 I’m currently learning ... Neural Networks, IoT, Nvidia Jetson Nano, Web Development.
 - 💞️ I’m looking to collaborate on ... Above Topics 👆.
-- 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if want to reach me out here.
+- 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if u want to reach out to me.
 - [Resume](https://drive.google.com/file/d/1xMgrhEHdY4EJ5hp6BzcVxAEdcJaQWpNq/view?usp=sharing)
 
 ## Programming Nerd Jokes
