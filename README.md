@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Neural Networks, IoT, Nvidia Jetson Nano, Web Development.
 - 💞️ I’m looking to collaborate on ... Above Topics 👆.
 - 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if u want to reach out to me.
-- [Resume](https://drive.google.com/file/d/1xMgrhEHdY4EJ5hp6BzcVxAEdcJaQWpNq/view?usp=sharing)
+- [Resume](https://viteduin59337-my.sharepoint.com/personal/ashish_pradhan_vit_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fashish%5Fpradhan%5Fvit%5Fedu%5Fin%2FDocuments%2FAshishPradhan%20Resume%2Epdf&parent=%2Fpersonal%2Fashish%5Fpradhan%5Fvit%5Fedu%5Fin%2FDocuments)
 
 ## Programming Nerd Jokes
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
