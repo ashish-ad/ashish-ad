@@ -10,11 +10,15 @@ jobs:
     name: Jobs to update snake grid
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
-          github_user_name: ashish-ad
-          svg_out_path: dist/github-contribution-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+              dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          #svg_out_path: dist/github-contribution-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
