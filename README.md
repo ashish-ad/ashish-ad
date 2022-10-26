@@ -25,5 +25,6 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ashishad14)](https://github.com/ashish-ad/github-readme)
 
 ## Snake Eating My Contribution
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/ashish-ad/ashish-ad/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/ashish-ad/ashish-ad/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
