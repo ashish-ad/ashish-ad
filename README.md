@@ -8,6 +8,9 @@
 - 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if u want to reach out to me.
 - [Resume](https://viteduin59337-my.sharepoint.com/personal/ashish_pradhan_vit_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fashish%5Fpradhan%5Fvit%5Fedu%5Fin%2FDocuments%2FAshishPradhan%20Resume%2Epdf&parent=%2Fpersonal%2Fashish%5Fpradhan%5Fvit%5Fedu%5Fin%2FDocuments)
 
+## My achievements of Hacktoberfest 2022
+[![@ashishad's Holopin board](https://holopin.me/ashishad)](https://holopin.io/@ashishad)
+
 ## Programming Nerd Jokes
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
