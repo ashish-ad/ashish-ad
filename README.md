@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Neural Networks, IoT, Nvidia Jetson Nano, Web Development.
 - 💞️ I’m looking to collaborate on ... Above Topics 👆.
 - 📫 How to reach me ... ashish.pradhan@vit.edu.in or ashishad14@gmail.com mail me if u want to reach out to me.
-- [Resume](https://viteduin59337-my.sharepoint.com/personal/ashish_pradhan_vit_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fashish%5Fpradhan%5Fvit%5Fedu%5Fin%2FDocuments%2FAshishPradhan%20Resume%2Epdf&parent=%2Fpersonal%2Fashish%5Fpradhan%5Fvit%5Fedu%5Fin%2FDocuments)
+- [Resume](https://docs.google.com/document/d/1k2diVQGIbUoK4Q7F3ghRxaSYhPiXOOif/edit?usp=sharing&ouid=110484841261256000877&rtpof=true&sd=true)
 
 ## My achievements of Hacktoberfest 2022
 [![@ashishad's Holopin board](https://holopin.me/ashishad)](https://holopin.io/@ashishad)
