@@ -23,7 +23,8 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-ad&layout=compact#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-ad&layout=compact#gh-dark-mode-only)
 
 ## Contribution Streak
 <img src="https://github-readme-stats.vercel.app/api?username=ashish-ad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=transparent" alt="GitHub Stats"/>
