@@ -6,7 +6,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ashish-ad&color=brightgreen)
 
 - 👀 I’m interested in ... Web Development [Backend-dev], Neural Networks, Mathematics, IoT, and Nvidia Jetson Nano.
-- 🌱 I’m currently learning ... AWS, Kubernetes, Web Development [JavaScript and TypeScript], Machine Learning, and Neural Networks.
+- 🌱 I’m currently learning ... AWS, Kubernetes, Web Development [JavaScript and TypeScript], Golang, Machine Learning, and Neural Networks.
 - 💞️ I’m looking to collaborate on the above topics 👆.
 - 📫 How to reach me ... ashishad14@gmail.com
 
