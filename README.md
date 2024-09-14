@@ -9,12 +9,10 @@
 - 🌱 I’m currently learning ... AWS, Kubernetes, Web Development [JavaScript and TypeScript], Golang, Machine Learning, and Neural Networks.
 - 💞️ I’m looking to collaborate on the above topics 👆.
 - 📫 How to reach me ... ashishad14@gmail.com
+- [Resume](https://docs.google.com/document/d/1k2diVQGIbUoK4Q7F3ghRxaSYhPiXOOif/edit?usp=sharing&ouid=110484841261256000877&rtpof=true&sd=true)
+- [Portfolio](https://ashish-ad.github.io/)
 
 <a href="https://app.daily.dev/ashishad"><img src="https://api.daily.dev/devcards/v2/kSs1l90S1bsVsdNk4TZS9.png?type=wide&r=het" width="652" alt="Ashish Pradhan's Dev Card"/></a>
-
-[Resume](https://docs.google.com/document/d/1k2diVQGIbUoK4Q7F3ghRxaSYhPiXOOif/edit?usp=sharing&ouid=110484841261256000877&rtpof=true&sd=true)
-
-[Portfolio](https://ashish-ad.github.io/)
 
 ## My achievements of Hacktoberfest 2022
 [![@ashishad's Holopin board](https://holopin.me/ashishad)](https://holopin.io/@ashishad)
