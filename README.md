@@ -14,7 +14,7 @@
 
 <a href="https://app.daily.dev/ashishad"><img src="https://api.daily.dev/devcards/v2/kSs1l90S1bsVsdNk4TZS9.png?type=wide&r=het" width="652" alt="Ashish Pradhan's Dev Card"/></a>
 
-## Go something from Hackoctober fest
+## Got something from Hackoctober fest
 [![@ashishad's Holopin board](https://holopin.me/ashishad)](https://holopin.io/@ashishad)
 
 ## Programming Nerd Jokes
